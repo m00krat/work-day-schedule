@@ -1,4 +1,4 @@
-//current Date
+// current day and current hour
 var currentDay = dayjs().format('dddd, MMMM D, hh:mm a');
 $('#currentDay').text(currentDay); 
 var currentHour = dayjs().hour();
