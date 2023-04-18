@@ -1,6 +1,6 @@
-#Work Day Scheduler
+# Work Day Scheduler
 
-##Deployed Website: 
+## Deployed Website: 
 
 ## User Story
 
