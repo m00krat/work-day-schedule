@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-## Deployed Website: 
+## Deployed Website: https://m00krat.github.io/work-day-schedule/
 
 ## User Story
 
